@@ -4,7 +4,7 @@ This template helps you automate the PARA framework in Obsidian for better organ
 
 Let's get started and make your Obsidian experience even more efficient!
 
-1. [[PARA]] (feel free to skip this section if you're already familiar with PARA)
+1. [[PARA]] (feel free to skip section if you're already familiar with PARA)
 2. [[Setups]]
 3. **[[File Structure]]**
 4. **[[Templates & Automations]]**
